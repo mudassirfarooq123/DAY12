@@ -21,3 +21,9 @@ body{
     -webkit-background-clip: text;
     color: transparent; 
 }
+@media (max-width:850px) {
+    .heading{
+        font-weight: 500;
+        font-size: 7rem;
+    }
+}
